@@ -1,12 +1,12 @@
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/criminaL786">『 ツᴅɪᴄͥᴛᴀᴛᴏͣʀͫ乛ᴀᴍᴀᴀɴ々』</a></b></h2>
+<h2 align="center"><b>OwNeR <a href="https://telegram.dog/criminaL786"> Sagar Dahiya and Lucky kumar Rajput </a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/f3b4a7929e333520808ab.jpg" alt="JAVES 2.0" width=400px></a>
+   <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/ac3e6f8158947f2b693d8.jpg" alt="JAVES 2.0" width=400px></a>
    <br>
    <br>
 </p>
-<h1>JAVES 2.0</h1>
-<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<h1>BrothersUserbot</h1>
+<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Brains of Two Friends.</b>
 <br>
 <br>
 
@@ -26,7 +26,7 @@
 
 # Support
 
-<a href="https://t.me/Javes2support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/7TfFK6T_EVw5ZmZl"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/javes_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
@@ -54,7 +54,7 @@
 
 
 # Credit
-Special Thanks To Our contributors Pro Boy , Danish00 , Shivam , Shiwa ,Pawan And Anmol.
+Special Thanks To Our contributors Sagar Dahiya and Lucky Kumar Rajput.
 
 
 
@@ -82,7 +82,7 @@ python telesetup.py
     
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Javes-2.0 User Bot will not work without setting the mandatory vars.
+[+] The BrothersUserbot will not work without setting the mandatory vars.
 ```
 
 
