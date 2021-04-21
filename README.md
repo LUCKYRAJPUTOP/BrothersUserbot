@@ -1,4 +1,4 @@
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/criminaL786"> Sagar Dahiya and Lucky kumar Rajput </a></b></h2>
+<h2 align="center"><b>OwNeR <a href="https://telegram.dog/LuckyRajputBot"> Sagar Dahiya and Lucky kumar Rajput </a></b></h2>
 <br>
 <p align="center">
    <a href="https://github.com/Javes786/javes-2.0"><img src="https://telegra.ph/file/ac3e6f8158947f2b693d8.jpg" alt="JAVES 2.0" width=400px></a>
@@ -24,10 +24,10 @@
 
 
 
-# Support
+# Contact Owners
 
-<a href="https://t.me/joinchat/7TfFK6T_EVw5ZmZl"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/javes_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/SarcasticLucky"><img src="https://img.shields.io/badge/Message-to%20Lucky%20Kumar%20Rajput-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Elonmusk_3"><img src="https://img.shields.io/badge/Message-to%20Sagar%20Dahiya-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
