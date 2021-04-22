@@ -6,7 +6,7 @@
    <br>
 </p>
 <h1>BrothersUserbot</h1>
-<b>Javes 2.0 is a telgram userbot that running in python3 + Telethon Born From Brains of Two Friends.</b>
+<b>BrothersUserbot is a telgram userbot that running in python3 + Telethon Born From Brains of Two Friends.</b>
 <br>
 <br>
 
@@ -40,7 +40,7 @@
 
 # Click On This To Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Javes786/javes-2.0)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LUCKYRAJPUTOP/BrothersUserbot)
 
 # Requirements 
 * Python 3.8 or Higher
